@@ -1,0 +1,17 @@
+D:\CalculoHoras\CalculoHoras\obj\Debug\CalculoHoras.Form1.resources
+D:\CalculoHoras\CalculoHoras\obj\Debug\CalculoHoras.Resources.resources
+D:\CalculoHoras\CalculoHoras\obj\Debug\CalculoHoras.vbproj.GenerateResource.Cache
+D:\CalculoHoras\CalculoHoras\bin\Debug\CalculoHoras.exe.config
+D:\CalculoHoras\CalculoHoras\bin\Debug\CalculoHoras.exe
+D:\CalculoHoras\CalculoHoras\bin\Debug\CalculoHoras.pdb
+D:\CalculoHoras\CalculoHoras\obj\Debug\CalculoHoras.exe
+D:\CalculoHoras\CalculoHoras\obj\Debug\CalculoHoras.pdb
+D:\Univ. Continental\2016-I\Laboratorio de Programación\Programas\Producto Academico 3  Laboratorio de Programación\CalculoHoras\CalculoHoras\bin\Debug\CalculoHoras.exe.config
+D:\Univ. Continental\2016-I\Laboratorio de Programación\Programas\Producto Academico 3  Laboratorio de Programación\CalculoHoras\CalculoHoras\obj\Debug\CalculoHoras.exe
+D:\Univ. Continental\2016-I\Laboratorio de Programación\Programas\Producto Academico 3  Laboratorio de Programación\CalculoHoras\CalculoHoras\obj\Debug\CalculoHoras.pdb
+D:\Univ. Continental\2016-I\Laboratorio de Programación\Programas\Producto Academico 3  Laboratorio de Programación\CalculoHoras\CalculoHoras\bin\Debug\CalculoHoras.exe
+D:\Univ. Continental\2016-I\Laboratorio de Programación\Programas\Producto Academico 3  Laboratorio de Programación\CalculoHoras\CalculoHoras\bin\Debug\CalculoHoras.pdb
+D:\Univ. Continental\2016-I\Laboratorio de Programación\Programas\Producto Academico 3  Laboratorio de Programación\CalculoHoras\CalculoHoras\obj\Debug\CalculoHoras.vbprojResolveAssemblyReference.cache
+D:\Univ. Continental\2016-I\Laboratorio de Programación\Programas\Producto Academico 3  Laboratorio de Programación\CalculoHoras\CalculoHoras\obj\Debug\CalculoHoras.Form1.resources
+D:\Univ. Continental\2016-I\Laboratorio de Programación\Programas\Producto Academico 3  Laboratorio de Programación\CalculoHoras\CalculoHoras\obj\Debug\CalculoHoras.Resources.resources
+D:\Univ. Continental\2016-I\Laboratorio de Programación\Programas\Producto Academico 3  Laboratorio de Programación\CalculoHoras\CalculoHoras\obj\Debug\CalculoHoras.vbproj.GenerateResource.Cache
